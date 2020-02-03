@@ -15,3 +15,15 @@ See [LICENSE](LICENSE).
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
+
+## Docker image
+
+docker push mpereverov/project-nodejs-express-webapp:tagname (latest or certain build number, 1, 2, 3 etc.)
+
+## Jenkins project name
+
+michael.pereverov
+
+## App link
+
+http://3.11.194.230:3090/
